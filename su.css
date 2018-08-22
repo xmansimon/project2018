@@ -1,0 +1,30 @@
+body {
+    padding-top: 5rem;
+  }
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+
+#indexshow{
+  padding-top: 8rem;
+}
+#location li{
+  display: inline;
+  color: black;
+  text-align: center;
+  padding: 14px 16px 0px 0px;
+
+}
+#location li a:hover:not(.active) {
+  background-color: beige;
+}
+
+.active {
+  color:white
+}
+#location{
+  
+    margin: 0;
+    padding: 0;
+}
